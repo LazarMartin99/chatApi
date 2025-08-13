@@ -1,6 +1,6 @@
 # Laravel Chat API
 
-Egyszerű REST API chat alkalmazáshoz Laravel 11-ben.
+Egyszerű REST API chat alkalmazás Laravelben.
 
 ## Gyors telepítés
 
